@@ -7,20 +7,27 @@ The project specifically consists of development of **inverse and direct kinemat
 
 The files description is present in this readme and for further details, refer to the final reports of individual tasks. 
 
-## Tech Stack
-
+---
 
 ## Files description and Agenda
 
- 1. **RRR Forward and Inverse Kinematics using Hand Calculations**
+ 1. **RRR Forward and Inverse Kinematics using Hand Calculations** - This assignment involved the calculation of DH Parameters and the Forward and Inverse Kineamatic Equations using Jacobians, The analysis was done using hand calcultion as well as in simulation. A L-RRR robot was used for analysis purpose.
+![Fig](https://github.com/Jash-2000/Robotics-IRC-1410-Flexpendant/blob/master/Problem.jpg)
+
+Have a look at the file [Scara_setup](https://github.com/Jash-2000/Robotics-IRC-1410-Flexpendant/blob/master/Scara_setup.ipynb) for the pybullet simulation file.
+The hand calculations and analysis report is present [here](https://github.com/Jash-2000/Robotics-IRC-1410-Flexpendant/blob/master/Robotics_Assignment_1_Jash_Shah.pdf)
 
 ![DH-Parameters](https://www.researchgate.net/profile/Hayder-Al-Assadi/publication/271608615/figure/tbl1/AS:392071643975699@1470488572882/D-H-Parameters-of-the-IRB1410-Robot.png)
 
- 2. **Dynamics of Robotic Arm**
+
+
+ 2. **Dynamics of Robotic Arm**  - 
+
+
+
  3. **ABB RobotStudio IRB 1410 articulated arm control**
 
 ![Workspace of IRB 1410](https://user-images.githubusercontent.com/47540320/113731014-09894d80-9716-11eb-96dd-e1c877f020ca.PNG)![ABB1410](https://user-images.githubusercontent.com/47540320/113704089-527ed900-96f9-11eb-9dc2-9f124751e2d3.jpg) 
-
 
 
 
