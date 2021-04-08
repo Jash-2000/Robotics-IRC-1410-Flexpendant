@@ -3,7 +3,7 @@
 This repository contains my project assignments for the graduate-level course: BITS F441 - Robotics, under Dr B K Raut. I passed the course with the highest possible grade.
 The project specifically consists of development of **inverse and direct kinematic models** as well as **dynamic models** of 3 axis articulated robotic arm. At a later stage, I was supposed to simulate IRB 1410 in ABB RobotStudio using FlexPendant IRC5 controller. 
 
-![image_327413_1](https://user-images.githubusercontent.com/47540320/114073489-f5358400-98c0-11eb-9f96-5e7777a416f2.png)
+![download](https://user-images.githubusercontent.com/47540320/114083597-d0470e00-98cc-11eb-8478-b68d7aaaeb8b.jpg)![image_327413_1](https://user-images.githubusercontent.com/47540320/114073489-f5358400-98c0-11eb-9f96-5e7777a416f2.png)
 
 The files description is present in this readme and for further details, refer to the final reports of individual tasks. 
 
