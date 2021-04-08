@@ -1,5 +1,8 @@
 # Robotics-BITS-Pilani
 This repository contains my project assignments for the graduate-level course: BITS F441 - Robotics, under Dr B K Raut. I passed the course with the highest possible grade.
+The project specifically consists of development of **inverse and direct kinematic models** as well as **dynamic models** of 3 axis articulated robotic arm. At a later stage, I was supposed to simulate IRB 1410 in ABB RobotStudio using FlexPendant IRC5 controller. 
+
+The files description is present in this readme and for further details, refer to the final reports of individual tasks. 
 
 ![ABB1410](https://user-images.githubusercontent.com/47540320/113704089-527ed900-96f9-11eb-9dc2-9f124751e2d3.jpg) ![RobotController](https://user-images.githubusercontent.com/47540320/113730350-7223fa80-9715-11eb-9e09-782bf126a44a.PNG)
 
@@ -81,5 +84,8 @@ This command will provide a URL. Run the URL in a browser (Firefox). If a web pa
   * RobotStudio Tutorials by [Hogskolani Skovde University](https://his.instructure.com/courses/3328/pages/robotstudio-tutorial-video-library)
   * ABB Tutorial by [CHETAN JALENDRA](https://drive.google.com/file/d/1mdPkSNv2JhjNpQBhUM0tqa1tpV0jWVSs/view?usp=sharing)
   * Official ABB RobotStudio [Tutorials](https://new.abb.com/products/robotics/robotstudio/tutorials)
-  * 
+  * Complete Tutorial of RobotStudio | [Youtube](https://www.youtube.com/watch?v=9kp-YR6hoGk&list=PL7vknECtgBIyxmhZDBx3xj0AGNcyxt93b)
+  * British Columbia Institute of Technology Mechatronics and Robotics [Tutorials for ABB RobotStudio](https://www.youtube.com/watch?v=9kp-YR6hoGk)
+  * RobotStudio tutorial for beginners by [viktor007r](https://www.youtube.com/watch?v=kQax9-TvrHE)
+  * [ABB RobotStudio Forum](https://forums.robotstudio.com/discussion/74/differences-movejoint-moveline) | differences - MoveJoint / MoveLine
 
