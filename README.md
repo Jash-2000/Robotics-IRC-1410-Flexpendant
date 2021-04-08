@@ -1,11 +1,6 @@
-# IRC 1410 FlexPendant Control - ABB RobotStudio
-
+# Robotics - BITS F441
 This repository contains my project assignments for the graduate-level course: BITS F441 - Robotics, under Dr B K Raut. I passed the course with the highest possible grade.
-The project specifically consists of development of **inverse and direct kinematic models** as well as **dynamic models** of 3 axis articulated robotic arm. At a later stage, I was supposed to simulate IRB 1410 in ABB RobotStudio using FlexPendant IRC5 controller. 
-
-![download](https://user-images.githubusercontent.com/47540320/114083597-d0470e00-98cc-11eb-8478-b68d7aaaeb8b.jpg)![image_327413_1](https://user-images.githubusercontent.com/47540320/114073489-f5358400-98c0-11eb-9f96-5e7777a416f2.png)
-
-The files description is present in this readme and for further details, refer to the final reports of individual tasks. 
+The project specifically consists of development of **inverse and direct kinematic models** as well as **dynamic models** of 3 axis articulated robotic arm.
 
 ---
 
@@ -24,33 +19,7 @@ The hand calculations and analysis report is present [here](https://github.com/J
  2. **Dynamics of Robotic Arm**  - 
 
 
-
- 3. **ABB RobotStudio IRB 1410 articulated arm control**
-
-![Workspace of IRB 1410](https://user-images.githubusercontent.com/47540320/113731014-09894d80-9716-11eb-96dd-e1c877f020ca.PNG)![ABB1410](https://user-images.githubusercontent.com/47540320/113704089-527ed900-96f9-11eb-9dc2-9f124751e2d3.jpg) 
-
-
-
 ---
-
-# Setup Instructions
-
-The corresponding sections show the setup guide to the softwares that I have used. It also contains the setup up guide for loading my project.
-
-## ABB RobotStudio
-
-Download the official version of [RobotStudio](https://new.abb.com/products/robotics/robotstudio) and the operating manual from [here](https://library.e.abb.com/public/4b4d0a7f1e14fcdac1257c13004f1121/3HAC032104-en.pdf).
-
-The software contains a premium version which is paid, but they also provide a trial version for 30 days. Download the trial version, extract the files and initiate the installation process from setup.exe.
-
-Once everything is setup, clone my repository, and open the [**Assignment_letter.rssln**](https://github.com/Jash-2000/Robotics-IRC-1410-Flexpendant/blob/master/ABB%20RobotStudio%20IRB%201410%20articulated%20arm%20control/Assignment_Letter.rar) file. 
-
-Make sure you install the **RobotWare 6.0 IRC5** controller Add-on. This will allow you to access the virtual Flexpendant controller. 
-
-Once everything is setup, follow the steps in my [video demonstration](https://github.com/Jash-2000/Robotics-IRC-1410-Flexpendant/blob/master/Assignment_Output.mp4).
-
-![RobotController](https://user-images.githubusercontent.com/47540320/113730350-7223fa80-9715-11eb-9e09-782bf126a44a.PNG)
-
 
 ## Anaconda-Pybullet Setup
 
@@ -101,16 +70,3 @@ Check the Jupyter notebook by running the following command in the bash shell:
 $ jupyter notebook  
 ```
 This command will provide a URL. Run the URL in a browser (Firefox). If a web page opens up, then the Jupyter software is successfully installed.  
-
----
-
-## References
-
-  * RobotStudio Tutorials by [Hogskolani Skovde University](https://his.instructure.com/courses/3328/pages/robotstudio-tutorial-video-library)
-  * ABB Tutorial by [CHETAN JALENDRA](https://drive.google.com/file/d/1mdPkSNv2JhjNpQBhUM0tqa1tpV0jWVSs/view?usp=sharing)
-  * Official ABB RobotStudio [Tutorials](https://new.abb.com/products/robotics/robotstudio/tutorials)
-  * Complete Tutorial of RobotStudio | [Youtube](https://www.youtube.com/watch?v=9kp-YR6hoGk&list=PL7vknECtgBIyxmhZDBx3xj0AGNcyxt93b)
-  * British Columbia Institute of Technology Mechatronics and Robotics [Tutorials for ABB RobotStudio](https://www.youtube.com/watch?v=9kp-YR6hoGk)
-  * RobotStudio tutorial for beginners by [viktor007r](https://www.youtube.com/watch?v=kQax9-TvrHE)
-  * [ABB RobotStudio Forum](https://forums.robotstudio.com/discussion/74/differences-movejoint-moveline) | differences - MoveJoint / MoveLine
-
