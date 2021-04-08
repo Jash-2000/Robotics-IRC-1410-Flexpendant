@@ -21,15 +21,22 @@ The hand calculations and analysis report is present [here](https://github.com/J
 
 
 
- 2. **Dynamics of Robotic Arm**  - 
+ 2. **Dynamics of Robotic Arm**  - The hand report is present [here](https://github.com/Jash-2000/Robotics-IRC-1410-Flexpendant/blob/master/2018A8PS0507P_Robotics_Assignmemt-2.pdf). The purpose of this project was to find the control torque for a RRR robotic arm when it is affected with an external force at the end-effector.
 
+[Python Script for Automatic Calculations](https://github.com/Jash-2000/Robotics-IRC-1410-Flexpendant/blob/master/main_script.py) and [Python script for matrix multiplication](https://github.com/Jash-2000/Robotics-IRC-1410-Flexpendant/blob/master/Robotics_assignment.py) involve **Spicy-python interface**.
+
+### **__Newton-Euler and Lagrange Methods were used with recurrsion for finding the force, and torque vectors.__**
+
+![download](https://user-images.githubusercontent.com/47540320/114085913-9f1c0d00-98cf-11eb-9aa5-01470f888665.jpg)
 
 
  3. **ABB RobotStudio IRB 1410 articulated arm control**
 
 ![Workspace of IRB 1410](https://user-images.githubusercontent.com/47540320/113731014-09894d80-9716-11eb-96dd-e1c877f020ca.PNG)![ABB1410](https://user-images.githubusercontent.com/47540320/113704089-527ed900-96f9-11eb-9dc2-9f124751e2d3.jpg) 
 
+Details of this project are present in the readme file inside the directory. A short demostration gif is present below.
 
+ 4. **Saddle Point** - This was just a utility function created in MATLAB for experimenting with saddle points.
 
 ---
 
