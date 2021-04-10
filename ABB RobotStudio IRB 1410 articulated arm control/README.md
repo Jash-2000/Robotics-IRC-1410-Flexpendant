@@ -7,6 +7,7 @@ For the project, I carved my initials i.e. letter J and A onto a vertical wall. 
 TeachPendant controller was programmed using the RAPID programmer and this was used to collectively demonstrate the inverse kinematics of the 6 DOF arm.
 
 A typical controller looks like this :
+
 ![download](https://user-images.githubusercontent.com/47540320/114083361-7e9e8380-98cc-11eb-8216-31bd811f75b8.jpg)
 
 For running the code, download the zip file, extract it and open the main station in RobotStudio.
