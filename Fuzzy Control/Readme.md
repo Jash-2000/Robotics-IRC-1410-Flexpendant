@@ -1,5 +1,9 @@
 # Fuzzy Robot Arm
 
+Use Fuzzy Toolbox and ANFIS toolbox. The files are also added to this repo.
+
+---
+
 **Terminology** | **Description**
 -----|------------
 **Forward Kinematics** | The process of determining the desired Cartesian Co-ordinates from Joint Params. | 
